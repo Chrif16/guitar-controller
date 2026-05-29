@@ -8,6 +8,7 @@ i made it because i thought it would be fun to actually have a guitar in your ha
 <img width="993" height="607" alt="Screenshot 2026-05-29 115152" src="https://github.com/user-attachments/assets/8f72498d-4469-490f-b43d-f04cd79ec6b3" />
 this parrt is optional if you want to build it yourself but it helps with asthetics
 button model by Bhavesh on grabcad
+battery case model by PENNEL Patrice on grabcad
 bolt model by Facocero on thingiverse
 
 # Wiring
