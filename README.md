@@ -15,3 +15,5 @@ bolt model by Facocero on thingiverse
 <img width="802" height="729" alt="image" src="https://github.com/user-attachments/assets/65167744-0c8a-47d6-af73-0df4afe46a9f" />
 <img width="1012" height="801" alt="image" src="https://github.com/user-attachments/assets/a00ab5f0-544a-4da2-b4e0-0e59f94f8161" />
 it seems pretty simple but it took quite a while for me to figure it out so i learned a lot for this project
+# zine
+<img width="3508" height="4960" alt="zine" src="https://github.com/user-attachments/assets/c2b30fc6-2920-49ff-95db-db0e37ecb2c4" />
