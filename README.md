@@ -1,7 +1,8 @@
 # guitar-controller
 this is a controller project inspired by the guitar hero wii controller accessory, it uses an esp32 to wirelessly send inputs from the controllers buttons to your computer.
 it has a 3d printed shell that keeps the components together and makes it easier to press the buttons.
-i made it because i thought it would be fun to actually have a guitar in your hand while playing a game or doing anything as you can configure the input to be whatever you would like them to be in the python script.<img width="1017" height="593" alt="Screenshot 2026-05-29 121535" src="https://github.com/user-attachments/assets/60841f5b-b503-423b-803e-9d9ebbde85d3" />
+i made it because i thought it would be fun to actually have a guitar in your hand while playing a game or doing anything as you can configure the input to be whatever you would like them to be in the python script.<img width="687" height="712" alt="Screenshot 2026-06-14 103814" src="https://github.com/user-attachments/assets/3f0141d3-c594-482d-a466-38df76782feb" />
+
 
 # 3d model
 <img width="1919" height="1072" alt="Screenshot 2026-05-28 214316" src="https://github.com/user-attachments/assets/4224668f-4c0f-433b-b94f-f22205a84ef1" />
