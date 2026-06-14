@@ -25,3 +25,4 @@ it seems pretty simple but it took quite a while for me to figure it out so i le
 # zine
 
 <img width="3508" height="4960" alt="zine 2 5" src="https://github.com/user-attachments/assets/4e2bb840-6c3a-48dc-9675-af9abd2f7ee3" />
+ps, this is my first ever project aside from hackpad for blueprint (which is a guided project so it doesnt really count)
